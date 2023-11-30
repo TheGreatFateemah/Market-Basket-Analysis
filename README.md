@@ -1,6 +1,7 @@
 # Market-Basket-Analysis
 
 ## Introduction
+Market Basket Analysis is a data mining technique that is used to identify relationship between products that are frequently purchased together by analyzing transaction data from retail stores or e-commerce websites.
 ![](IntroImage.jpg)
 
 This project extracts valuable insights from transaction data and understands customer purchasing behaviour for business optimization. 
