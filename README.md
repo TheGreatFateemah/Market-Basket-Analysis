@@ -1,9 +1,11 @@
 # Market-Basket-Analysis
 
 ## Introduction
+![](IntroImage.jpg)
+
 This project extracts valuable insights from transaction data and understands customer purchasing behaviour for business optimization. 
 
-## Data Preparation and
+## Data Preparation
 - I checked the availability of null values and there was no null value.
 - I converted the date to DateTime format.
 
@@ -17,3 +19,21 @@ This project extracts valuable insights from transaction data and understands cu
 - I obtain results from the model in a readable format.
 
 ## Visualization
+![](Top10Items.jpg)
+
+This bar chart shows the top 10 items sold with whole milk having the highest quantity sold and citrus fruit having the lowest.
+
+![](NumberOfItemSoldByMonth.jpg)
+
+This line chart shows that the highest number of items were sold in August 2015 and the lowest number of items were sold in March 2014.
+
+![](Table.jpg)
+
+This table shows the items that customers are likely to buy together.
+
+## Recommendation
+Put the items that customers are likely to buy together in the same place while displaying items to enhance customer decision.
+
+
+
+
